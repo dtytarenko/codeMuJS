@@ -8,7 +8,13 @@
 // var arr = [1, 2, 3];
 // alert(arr.reverse());
 
-var arr = [1, 2, 3];
-//arr.push(4, 5, 6);
-arr.unshift(4, 5, 6);
-alert(arr);
+// var arr = [1, 2, 3];
+// //arr.push(4, 5, 6);
+// arr.unshift(4, 5, 6);
+// alert(arr);
+
+// var arr = ['js', 'css', 'jq'];
+// alert(arr.shift());
+
+var arr = ['js', 'css', 'jq'];
+alert(arr.pop());

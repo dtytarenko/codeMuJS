@@ -13,3 +13,4 @@ const fibonacci = (prevPrevNum, prevNum) => {
 fibonacci(1, 2);
 console.log(result);
 
+
